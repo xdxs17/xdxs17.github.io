@@ -1,17 +1,23 @@
+**Yang Yu(於阳)** is currently a joint Ph.D. research trainee in Computer Science and Technology at the Eastern University of Technology (EIT), Ningbo, China, and affiliated with the University of Science and Technology of China (USTC), Hefei, China. His M.S. degree in Software Engineering from Nanchang University(NCU), Nanchang, China, and his B.Eng. degree in Software Engineering at Wuhan Textile University(WTU), Wuhan, China. He received the First-Prize Outstanding Graduate Scholarship in 2023. His current research focuses on applying AI/ML techniques to wireless networks and edge computing systems, with an emphasis on space-air-ground-sea integrated networks.
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: 2019313987@qq.com
+
+
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D, Computer Science and Technology, University of Science and Technology of China, 2026—
+
+M.E., Software Engineering, Nanchang University, 2023—2026.
+
+B.E., Software Engineering, Wuhan Textile University, 2019—2023.
+
+
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+
+Artificial Intelligence/ Machine Learning for Network;  Edge Computing
 

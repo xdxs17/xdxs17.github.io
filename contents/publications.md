@@ -1,16 +1,23 @@
 #### Submitted
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- **Y. Yu**, D. Lin, et al. A Queueing Theory Based Heterogeneous-aware Energy-sustainable Scheme for Battery-free SWIPT-enabled Sensor Networks. **Under Review** at *IEEE Transactions on Mobile Computing* (TMC).
+- **Y. Yu**, D. Lin, et al. Cooperative Energy Replenishment Scheduling for MEAPs Using Multi-Agent Deep Reinforcement Learning in BSSNs. **Under Review** at *IEEE Transactions on Mobile Computing* (TMC).
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- **Y. Yu**, D. Lin*, et al. Spatial-temporal Fuzzy Logic-Driven Topological Decoupling Mechanism with Balanced Supply and Demand in Data and Energy for BSSN. *IEEE Journal on Selected Areas in Communications*, 2026, Accepted. (CCF‑A, 中科院一区Top, IF: 17.2)
+- **Y. Yu**, W. Luo, L. Zeng, D. Lin, et al. ECAEP: An Energy-efficient Clustering Approach based on Wireless Energy Provision for WSNs. *IEEE Transactions on Mobile Computing*, 2026, Accepted. (CCF‑A, 中科院一区Top, IF: 9.2)
+- D. Lin, Y. Tang, **Y. Yu***, et al. A delay-precision-balanced approach for license plate recognition based on fog computing paradigm. *IEEE Internet of Things Journal*, vol. 12, no. 22, pp. 46801‑46816, 2025. (中科院二区Top, IF: 8.9)
+- **Y. Yu**, D. Lin*, et al. A Spatial-temporal Topological Decoupling Method in Battery-free Sensor Networks. *IEEE WCNC 2026*, Accepted. (CCF‑C)
+- **Y. Yu**, D. Lin*, et al. A Queuing Theory-based Dynamic Adaptive Energy Sustainability Algorithm in Battery-free Sensor Networks. *IEEE ICC 2026 Workshop*, Accepted. (EI)
+- Y. Zhang, D. Lin*, **Y. Yu**, et al. A Practical Framework for Secure and Traceable Federated Learning in Edge Computing Scenarios. *IEEE Internet of Things Journal*, 2026, Accepted. (中科院二区Top, IF: 8.9)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+#### Software Copyrights
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- 林德钰，**於阳**. 群智能体系统自组织网络系统. 软件登记号: 2025SR2474866
+- 林德钰，**於阳**. 基于能量可持续性无线传感网络算法的节点部署软件. 软件登记号: 2025SR2474867
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+#### Patents
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- 鲍韵，**於阳**，林德钰，章宇杰，徐健锋，胡然，龚凡鑫，刘斓，肖文. 基于大模型的舆情分析系统、方法、电子设备及存储介质. 专利号: ZL202511308789.1
+- 龚凡鑫，章宇杰，林德钰，**於阳**，徐健锋，胡然，刘斓，邹航菲，涂敏. 基于改进YOLOv5与多分支Xception的伪造人脸检测方法. 专利号: ZL202511308793.8
