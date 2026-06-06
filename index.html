@@ -37,6 +37,22 @@
         code, pre, .code {
             font-family: "Courier New", monospace;
         }
+
+        /* ========== 修复加粗不显示的问题 ========== */
+        /* 全局强制粗体标签显示为粗体 */
+        strong, b {
+            font-weight: bold !important;
+        }
+        /* 特别针对 publications 区域，确保粗体生效（可选，但更保险） */
+        #publications-md strong,
+        #publications-md b,
+        #home-md strong,
+        #home-md b,
+        #awards-md strong,
+        #awards-md b {
+            font-weight: bold !important;
+        }
+        /* ======================================== */
     </style>
 
     <!-- Bootstrap core JS-->
@@ -162,6 +178,12 @@
                 }
             });
         });
+
+        // 可选：确保 marked 正确解析（如果需要加载外部 markdown 文件，scripts.js 中已有类似代码）
+        // 此处没有重复加载 publications.md，因为在 scripts.js 中会处理。
+        // 如果 scripts.js 中没有加载逻辑，你需要自行添加 fetch 加载。
+        // 但根据原有 index.html，scripts.js 应该负责加载内容。
+        // 我们只增加 CSS 修复，不破坏原有功能。
     </script>
 </body>
 
