@@ -5,10 +5,11 @@
 
 #### Journal Published (*Corresponding author)
 
-- **Y. Yu**, D. Lin*, et al. Spatial-temporal Fuzzy Logic-Driven Topological Decoupling Mechanism with Balanced Supply and Demand in Data and Energy for BSSN. *IEEE Journal on Selected Areas in Communications* （JSAC）, 2026, **Accepted**. (**CCF‑A推荐期刊, 中科院一区Top, IF: 16.8**)
-- **Y. Yu**, W. Luo, L. Zeng, D. Lin*, et al. ECAEP: An Energy-efficient Clustering Approach based on Wireless Energy Provision for WSNs. *IEEE Transactions on Mobile Computing*, 2026, **Accepted**. (**CCF‑A推荐期刊, 中科院一区Top, IF: 8.8**)
-- D. Lin, Y. Tang, **Y. Yu***, et al. A delay-precision-balanced approach for license plate recognition based on fog computing paradigm. *IEEE Internet of Things Journal*, vol. 12, no. 22, pp. 46801‑46816, 2025. (**中科院二区Top, IF: 8.7**)
-- Y. Zhang, D. Lin*, **Y. Yu**, et al. A Practical Framework for Secure and Traceable Federated Learning in Edge Computing Scenarios. *IEEE Internet of Things Journal*, 2026, **Accepted**. (**中科院二区Top, IF: 8.7**)
+- **Y. Yu**, D. Lin*, et al. Spatial-temporal Fuzzy Logic-Driven Topological Decoupling Mechanism with Balanced Supply and Demand in Data and Energy for BSSN. *IEEE Journal on Selected Areas in Communications* (JSAC), vol. 44, pp. 5105-5121, 2026. (**CCF‑A推荐期刊, 中科院一区Top, IF: 16.8**)
+- **Y. Yu**, W. Luo, L. Zeng, D. Lin*, et al. ECAEP: An Energy-efficient Clustering Approach based on Wireless Energy Provision for WSNs. *IEEE Transactions on Mobile Computing* (TMC), 2026, **Accepted**. (**CCF‑A推荐期刊, 中科院一区Top, IF: 8.8**)
+- D. Lin, Y. Tang, **Y. Yu***, et al. A delay-precision-balanced approach for license plate recognition based on fog computing paradigm. *IEEE Internet of Things Journal* (IoTJ), vol. 12, no. 22, pp. 46801‑46816, 2025. (**新锐分区一区Top，中科院二区Top, IF: 8.7**)
+- Y. Zhang, D. Lin*, **Y. Yu**, et al. A Practical Framework for Secure and Traceable Federated Learning in Edge Computing Scenarios. *IEEE Internet of Things Journal* (IoTJ), 2026, **Accepted**. (**新锐分区一区Top，中科院二区Top, IF: 8.7**)
+- D. Lin, Y. Zhang, **Y. Yu**, et al. Techniques of 2D Human Pose Estimation Based on Computer Vision: A Survey. *Electronics*, vol.15, no.13, p. 2809, 2026. (**新锐分区三区，中科院四区, IF: 2.6**)
 
 #### Conference Published
 
