@@ -14,7 +14,7 @@
 #### Conference
 
 - **Y. Yu**, D. Lin*, et al. A Spatial-temporal Topological Decoupling Method in Battery-free Sensor Networks. *2026 IEEE Wireless Communications and Networking Conference (WCNC)*, Kuala Lumpur, Malaysia, pp. 1-7, 2026. (**CCF‑C推荐会议**)
-- **Y. Yu**, D. Lin*, et al. A Queuing Theory-based Dynamic Adaptive Energy Sustainability Algorithm in Battery-free Sensor Networks. *2026 IEEE International Conference on Communications Workshop* (ICC Workshop), **Accepted**. (**EI会议**)
+- **Y. Yu**, D. Lin*, et al. A Queuing Theory-based Dynamic Adaptive Energy Sustainability Algorithm in Battery-free Sensor Networks. *2026 IEEE International Conference on Communications Workshop* (ICC Workshop), Glasgow, United Kingdom, pp. 1-6,  2026. (**EI会议**)
 
 #### Software Copyrights
 
