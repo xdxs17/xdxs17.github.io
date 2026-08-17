@@ -4,12 +4,12 @@
 
 #### Contact
 
-Email: yangyu@eitech.edu.cn
+Email: yang.yu@mail.ustc.edu.cn
 
 
 
 #### Education
-Ph.D, Computer Science and Technology, University of Science and Technology of China (USTC), 2026—
+Ph.D, Computer Science, University of Science and Technology of China (USTC), 2026—
 
 M.E., Software Engineering, Nanchang University (NCU), 2023—2026.
 
@@ -19,5 +19,4 @@ B.E., Software Engineering, Wuhan Textile University (WTU), 2019—2023.
 
 #### Research Interests
 
-Artificial Intelligence/ Machine Learning for Network;  Edge Computing
-
+Artificial Intelligence/ Machine Learning for Network;  Edge Intelligence
